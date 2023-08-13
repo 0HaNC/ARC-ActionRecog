@@ -1,2 +1,1 @@
-# ARC-ActionRecog
-Coming soon...
+# ARC-ActRecog
